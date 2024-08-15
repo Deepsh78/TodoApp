@@ -1,0 +1,2 @@
+1,lunch,momo,True,2024-03-05
+2,dinner,mapo,False,2024-09-08
